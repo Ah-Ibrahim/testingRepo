@@ -41,7 +41,7 @@ AVR microcontrollers, with their RISC architecture and ease of use, have had a l
 
 ---
 
-## Q2) state the different memory types inside avr micro controllers and their respective usage. what is a boatloader?
+## Q2) state the different memory types inside avr micro controllers and their respective usage. what is a bootloader?
 
 ### **Memory Types in AVR Microcontrollers**
 
